@@ -13,7 +13,7 @@ beta = (1 / (2*gamma)) - 2*gamma
 
 print("\nGamma: ", str(gamma), ", Beta: ", str(beta))
 
-elevation_angle = e_angle * math.pi / 180
+elevation_angle = e_angle
 declination_angle = 0
 
 print("Elevation angle: ", str(elevation_angle),
